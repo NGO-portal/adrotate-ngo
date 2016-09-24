@@ -1,0 +1,711 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: AdRotate-NGO\n"
+"POT-Creation-Date: 2016-08-02 09:51+0200\n"
+"PO-Revision-Date: 2016-08-02 09:50+0200\n"
+"Last-Translator: George Bredberg <george@bona.nu>\n"
+"Language-Team: George Bredberg <george@bona.nu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: adrotate-ngo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: adrotate-functions.php:842
+msgid "No files found"
+msgstr ""
+
+#: adrotate-functions.php:845
+msgid "Folder not found or not accessible"
+msgstr ""
+
+#: adrotate-functions.php:894
+msgid "Ad saved"
+msgstr ""
+
+#: adrotate-functions.php:898
+msgid "Group saved"
+msgstr ""
+
+#: adrotate-functions.php:902
+msgid "Ad(s) deleted"
+msgstr ""
+
+#: adrotate-functions.php:906
+msgid "Group deleted"
+msgstr ""
+
+#: adrotate-functions.php:910
+msgid "Ad(s) statistics reset"
+msgstr ""
+
+#: adrotate-functions.php:914
+msgid "Ad(s) renewed"
+msgstr ""
+
+#: adrotate-functions.php:918
+msgid "Ad(s) deactivated"
+msgstr ""
+
+#: adrotate-functions.php:922
+msgid "Ad(s) activated"
+msgstr ""
+
+#: adrotate-functions.php:926
+msgid "Group including it's Ads deleted"
+msgstr ""
+
+#: adrotate-functions.php:930
+msgid "Export created"
+msgstr ""
+
+#: adrotate-functions.php:935
+msgid "Settings saved"
+msgstr ""
+
+#: adrotate-functions.php:939
+msgid "Database optimized"
+msgstr ""
+
+#: adrotate-functions.php:943
+msgid "Database repaired"
+msgstr ""
+
+#: adrotate-functions.php:947
+msgid "Ads evaluated and statuses have been corrected where required"
+msgstr ""
+
+#: adrotate-functions.php:951
+msgid "Empty database records removed"
+msgstr ""
+
+#: adrotate-functions.php:956
+msgid "Action prohibited"
+msgstr ""
+
+#: adrotate-functions.php:960
+msgid ""
+"The ad was saved but has an issue which might prevent it from working "
+"properly. Review the colored ad."
+msgstr ""
+
+#: adrotate-functions.php:964
+msgid "No data found in selected time period"
+msgstr ""
+
+#: adrotate-functions.php:968
+msgid "Database can only be optimized or cleaned once every hour"
+msgstr ""
+
+#: adrotate-functions.php:972
+msgid "Form can not be (partially) empty!"
+msgstr ""
+
+#: adrotate-functions.php:976
+msgid "No ads found."
+msgstr ""
+
+#: adrotate-functions.php:980
+msgid "Unexpected error"
+msgstr ""
+
+#: adrotate-manage-publisher.php:685
+msgid "AdRotate Advertiser"
+msgstr ""
+
+#: adrotate-ngo.php:110
+msgid "General Info"
+msgstr ""
+
+#: adrotate-ngo.php:111
+msgid "AdRotate Pro"
+msgstr ""
+
+#: adrotate-ngo.php:112
+msgid "Manage Adverts"
+msgstr ""
+
+#: adrotate-ngo.php:113
+msgid "Manage Groups"
+msgstr ""
+
+#: adrotate-ngo.php:114 adrotate-ngo.php:377
+msgid "Manage Schedules"
+msgstr ""
+
+#: adrotate-ngo.php:115
+msgid "Manage Media"
+msgstr ""
+
+#: adrotate-ngo.php:116
+msgid "Settings"
+msgstr ""
+
+#: adrotate-ngo.php:136
+msgid "AdRotate Info"
+msgstr ""
+
+#: adrotate-ngo.php:154
+msgid "AdRotate Professional"
+msgstr ""
+
+#: adrotate-ngo.php:194
+msgid "Advert Management"
+msgstr ""
+
+#: adrotate-ngo.php:252 adrotate-ngo.php:319 adrotate-ngo.php:372
+msgid "Manage"
+msgstr ""
+
+#: adrotate-ngo.php:253 adrotate-ngo.php:320 adrotate-ngo.php:373
+msgid "Add New"
+msgstr ""
+
+#: adrotate-ngo.php:313
+msgid "Group Management"
+msgstr ""
+
+#: adrotate-ngo.php:322
+msgid "Report"
+msgstr ""
+
+#: adrotate-ngo.php:368
+msgid "Schedule Management available in AdRotate Pro"
+msgstr ""
+
+#: adrotate-ngo.php:378
+msgid ""
+"Schedule management and multiple schedules per advert is available in "
+"AdRotate Pro."
+msgstr ""
+
+#: adrotate-ngo.php:378 adrotate-ngo.php:462
+msgid "More information"
+msgstr ""
+
+#: adrotate-ngo.php:385
+msgid "Bulk Actions"
+msgstr ""
+
+#: adrotate-ngo.php:386
+msgid "Go"
+msgstr ""
+
+#: adrotate-ngo.php:395
+msgid "ID"
+msgstr ""
+
+#: adrotate-ngo.php:396
+msgid "Start"
+msgstr ""
+
+#: adrotate-ngo.php:396
+msgid "End"
+msgstr ""
+
+#: adrotate-ngo.php:397
+msgid "Ads"
+msgstr ""
+
+#: adrotate-ngo.php:399
+msgid "Max Impressions"
+msgstr ""
+
+#: adrotate-ngo.php:400
+msgid "Max Clicks"
+msgstr ""
+
+#: adrotate-ngo.php:430
+msgid "No schedules created yet!"
+msgstr ""
+
+#: adrotate-ngo.php:435
+msgid "Easily manage your schedules from here with AdRotate Pro."
+msgstr ""
+
+#: adrotate-ngo.php:435 adrotate-ngo.php:498
+msgid "Upgrade today!"
+msgstr ""
+
+#: adrotate-ngo.php:438
+msgid "Expires soon."
+msgstr ""
+
+#: adrotate-ngo.php:439
+msgid "Has expired."
+msgstr ""
+
+#: adrotate-ngo.php:460
+msgid "Media Management available in AdRotate Pro"
+msgstr ""
+
+#: adrotate-ngo.php:462
+msgid "Upload images to the AdRotate Pro banners folder from here."
+msgstr ""
+
+#: adrotate-ngo.php:462
+msgid ""
+"This is useful if you use responsive adverts with multiple images or have "
+"HTML5 adverts containing multiple files."
+msgstr ""
+
+#: adrotate-ngo.php:462
+msgid "Media uploading and management is available in AdRotate Pro."
+msgstr ""
+
+#: adrotate-ngo.php:464
+msgid "Upload new file"
+msgstr ""
+
+#: adrotate-ngo.php:465
+msgid "Accepted files:"
+msgstr ""
+
+#: adrotate-ngo.php:465
+msgid "For HTML5 ads you can also upload html and javascript files."
+msgstr ""
+
+#: adrotate-ngo.php:465
+msgid "Maximum size is 512Kb."
+msgstr ""
+
+#: adrotate-ngo.php:465
+msgid "Important:"
+msgstr ""
+
+#: adrotate-ngo.php:465
+msgid ""
+"Make sure your file has no spaces or special characters in the name. Replace "
+"spaces with a - or _."
+msgstr ""
+
+#: adrotate-ngo.php:465
+msgid ""
+"If you remove spaces from filenames for HTML5 adverts also edit the html "
+"file so it knows about the changed name. For example for the javascript file."
+msgstr ""
+
+#: adrotate-ngo.php:468
+msgid ""
+"For responsive adverts make sure the filename is in the following format; "
+"\"imagename.full.ext\". A full set of sized images is strongly recommended."
+msgstr ""
+
+#: adrotate-ngo.php:469
+msgid ""
+"For smaller size images use \".320\", \".480\", \".768\" or \".1024\" in the "
+"filename instead of \".full\" for the various viewports."
+msgstr ""
+
+#: adrotate-ngo.php:470
+msgid "Example:"
+msgstr ""
+
+#: adrotate-ngo.php:470
+msgid ""
+"image.full.jpg, image.320.jpg and image.768.jpg will serve the same advert "
+"for different viewports."
+msgstr ""
+
+#: adrotate-ngo.php:474
+msgid "Upload file"
+msgstr ""
+
+#: adrotate-ngo.php:474
+msgid "Click only once per file!"
+msgstr ""
+
+#: adrotate-ngo.php:477
+msgid "Available files in"
+msgstr ""
+
+#: adrotate-ngo.php:482
+msgid "Name"
+msgstr ""
+
+#: adrotate-ngo.php:483
+msgid "Actions"
+msgstr ""
+
+#: adrotate-ngo.php:488 adrotate-ngo.php:489 adrotate-ngo.php:490
+#: adrotate-ngo.php:491 adrotate-ngo.php:492 adrotate-ngo.php:493
+#: adrotate-ngo.php:494
+msgid "Delete"
+msgstr ""
+
+#: adrotate-ngo.php:498
+msgid ""
+"Make sure the banner images are not in use by adverts when you delete them!"
+msgstr ""
+
+#: adrotate-ngo.php:498
+msgid "Manage your banner folder from here with AdRotate Pro."
+msgstr ""
+
+#: adrotate-ngo.php:524
+msgid "AdRotate Settings"
+msgstr ""
+
+#: adrotate-output.php:575
+msgid "Oh no! Something went wrong!"
+msgstr ""
+
+#: adrotate-output.php:576
+msgid ""
+"WordPress was unable to verify the authenticity of the url you have clicked. "
+"Verify if the url used is valid or log in via your browser."
+msgstr ""
+
+#: adrotate-output.php:577
+msgid ""
+"If you have received the url you want to visit via email, you are being "
+"tricked!"
+msgstr ""
+
+#: adrotate-output.php:578
+msgid "Contact support if the issue persists:"
+msgstr ""
+
+#: adrotate-output.php:593
+msgid ""
+"Error, Ad is not available at this time due to schedule/geolocation "
+"restrictions or does not exist!"
+msgstr ""
+
+#: adrotate-output.php:595
+msgid ""
+"Error, Ad is not available at this time due to schedule/geolocation "
+"restrictions!"
+msgstr ""
+
+#: adrotate-output.php:602 adrotate-output.php:604
+msgid ""
+"Either there are no banners, they are disabled or none qualified for this "
+"location!"
+msgstr ""
+
+#: adrotate-output.php:610
+msgid "Error, no Ad ID set! Check your syntax!"
+msgstr ""
+
+#: adrotate-output.php:616
+msgid "Error, no group ID set! Check your syntax!"
+msgstr ""
+
+#: adrotate-output.php:621
+msgid "Error, group does not exist! Check your syntax!"
+msgstr ""
+
+#: adrotate-output.php:627
+msgid ""
+"There was an error locating the database tables for AdRotate. Please "
+"deactivate and re-activate AdRotate from the plugin page!!"
+msgstr ""
+
+#: adrotate-output.php:627
+msgid "If this does not solve the issue please seek support at"
+msgstr ""
+
+#: adrotate-output.php:633
+msgid "An unknown error occured."
+msgstr ""
+
+#: adrotate-output.php:652 adrotate-output.php:664
+#, php-format
+msgid "One advert is expired."
+msgid_plural "%1$s adverts expired!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adrotate-output.php:652 adrotate-output.php:655 adrotate-output.php:659
+#: adrotate-output.php:664 adrotate-output.php:667 adrotate-output.php:670
+msgid "Check adverts"
+msgstr ""
+
+#: adrotate-output.php:655 adrotate-output.php:667
+#, php-format
+msgid "One advert expires soon."
+msgid_plural "%1$s adverts are almost expiring!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adrotate-output.php:659 adrotate-output.php:670
+#, php-format
+msgid "One advert with configuration errors."
+msgid_plural "%1$s adverts have configuration errors!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adrotate-output.php:675
+msgid ""
+"You have enable caching support but W3 Total Cache is not active on your "
+"site!"
+msgstr ""
+
+#: adrotate-output.php:678
+msgid ""
+"You have enable caching support but the W3TC_DYNAMIC_SECURITY definition is "
+"not set."
+msgstr ""
+
+#: adrotate-output.php:683
+msgid "Your AdRotate Banner folder is not writable or does not exist."
+msgstr ""
+
+#: adrotate-output.php:702
+msgid "one issue that requires"
+msgid_plural "several issues that require"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adrotate-output.php:723
+msgid "Buy now"
+msgstr ""
+
+#: adrotate-output.php:724
+msgid ""
+"You've been using <strong>AdRotate</strong> for a while now. Why not upgrade "
+"to the <strong>PRO</strong> version"
+msgstr ""
+
+#: adrotate-output.php:724
+#, php-format
+msgid ""
+"Use discount code <b>getadrotatepro</b> for 10% off on any AdRotate license!"
+msgstr ""
+
+#: adrotate-output.php:724
+msgid "Thank you for your purchase!"
+msgstr ""
+
+#: adrotate-output.php:750
+msgid "one plugin"
+msgid_plural "several plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: adrotate-output.php:785
+msgid ""
+"Welcome, and thanks for using AdRotate. Everything related to AdRotate is in "
+"this menu. Check out the"
+msgstr ""
+
+#: adrotate-output.php:785
+msgid "manuals"
+msgstr ""
+
+#: adrotate-output.php:785 adrotate-output.php:852
+msgid "and"
+msgstr ""
+
+#: adrotate-output.php:785
+msgid "forums"
+msgstr ""
+
+#: adrotate-output.php:815
+msgid "Useful Links"
+msgstr ""
+
+#: adrotate-output.php:816
+msgid "Useful links to learn more about AdRotate"
+msgstr ""
+
+#: adrotate-output.php:818
+msgid "AdRotate website"
+msgstr ""
+
+#: adrotate-output.php:819
+msgid "Getting Started With AdRotate"
+msgstr ""
+
+#: adrotate-output.php:820
+msgid "AdRotate manuals"
+msgstr ""
+
+#: adrotate-output.php:821
+msgid "AdRotate Support Forum"
+msgstr ""
+
+#: adrotate-output.php:844
+msgid "Help AdRotate Grow"
+msgstr ""
+
+#: adrotate-output.php:845
+msgid "Follow Arnan on Facebook"
+msgstr ""
+
+#: adrotate-output.php:852
+msgid ""
+"A lot of users only think to review AdRotate when something goes wrong while "
+"thousands of people use AdRotate satisfactory. Don't let this go unnoticed."
+msgstr ""
+
+#: adrotate-output.php:852
+msgid "If you find AdRotate useful please leave your honest"
+msgstr ""
+
+#: adrotate-output.php:852
+msgid "rating"
+msgstr ""
+
+#: adrotate-output.php:852
+msgid "review"
+msgstr ""
+
+#: adrotate-output.php:852
+msgid "on WordPress.org to help AdRotate grow in a positive way"
+msgstr ""
+
+#: adrotate-output.php:885
+msgid "Available in AdRotate Pro"
+msgstr ""
+
+#: adrotate-output.php:885
+msgid "More information..."
+msgstr ""
+
+#: adrotate-output.php:886
+msgid "This feature is available in AdRotate Pro"
+msgstr ""
+
+#: adrotate-output.php:886
+msgid "Learn more"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "January"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "February"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "March"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "April"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "May"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "June"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "July"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "August"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "September"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "October"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "November"
+msgstr ""
+
+#: adrotate-statistics.php:217
+msgid "December"
+msgstr ""
+
+#: adrotate-statistics.php:222
+msgid "Previous"
+msgstr ""
+
+#: adrotate-statistics.php:224
+msgid "This month"
+msgstr ""
+
+#: adrotate-statistics.php:225
+msgid "Next"
+msgstr ""
+
+#: adrotate-statistics.php:278
+msgid "No data to show!"
+msgstr ""
+
+#: adrotate-widget.php:116
+msgid "Title (optional):"
+msgstr ""
+
+#: adrotate-widget.php:119
+msgid "HTML will be stripped out."
+msgstr ""
+
+#: adrotate-widget.php:122
+msgid "Description (optional):"
+msgstr ""
+
+#: adrotate-widget.php:125
+msgid "What is this widget used for? (Not parsed, HTML will be stripped out.)"
+msgstr ""
+
+#: adrotate-widget.php:128
+msgid "Type:"
+msgstr ""
+
+#: adrotate-widget.php:130
+msgid "Advert - Use Advert ID"
+msgstr ""
+
+#: adrotate-widget.php:131
+msgid "Group - Use group ID"
+msgstr ""
+
+#: adrotate-widget.php:134
+msgid "Choose what you want to use this widget for"
+msgstr ""
+
+#: adrotate-widget.php:137
+msgid "ID:"
+msgstr ""
+
+#: adrotate-widget.php:140
+msgid "Fill in the ID of the type you want to display!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "AdRotate-NGO"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://xn--freningsportalen-mwb.se"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Visar de annonser som är upplagda på nätverket även på undersiterna i en "
+"WPMU installation. Avsedd att visa annonser på föreningswebbplatser. Kräver "
+"AdRotate på portalsiten. Aktivera INTE denna plugin på samma site som "
+"AdRotate är aktiv på. Detta är en strippad version avsedd att visa annonser "
+"på siter där nätverket har en aktiv installation av AdRotate. Det finns inga "
+"inställningar i denna plugin. Lägg upp annonserna på nätverks-siten och lägg "
+"till hooks i temat för dina undersiter. Endast testad med annonsGRUPPER som "
+"visas som (slumpvisa om du har flera i samma grupp) enskilda annonser."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Föreningsportalen"
+msgstr ""
