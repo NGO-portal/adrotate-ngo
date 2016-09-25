@@ -3,12 +3,13 @@
 * Plugin Name: AdRotate-NGO
 * Plugin URI: https://ngo-portal.org
 * Description: Visar de annonser som är upplagda på nätverket även på undersiterna i en WPMU installation. Avsedd att visa annonser på föreningswebbplatser. Kräver AdRotate på portalsiten. <strong>Aktivera INTE denna plugin på samma site som AdRotate är aktiv på.</strong> Detta är en strippad version avsedd att visa annonser på siter där nätverket har en aktiv installation av AdRotate. Det finns inga inställningar i denna plugin. Lägg upp annonserna på nätverks-siten och lägg till hooks i temat för dina undersiter. Endast testad med annonsGRUPPER som visas som (slumpvisa om du har flera i samma grupp) enskilda annonser.
-* Version: 1.0
+* Version: 1.0.1
 * Author: George Bredberg
 * Author URI: https://datagaraget.se
 * Text Domain: adrotate-ngo
 * Domain Path: /languages/
 * License: GPLv3
+* GitHub Plugin URI: https://github.com/NGO-portal/adrotate-ngo
 */
 
 /*
